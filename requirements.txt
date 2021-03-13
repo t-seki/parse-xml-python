@@ -1,0 +1,2 @@
+lxml
+memory_profiler
